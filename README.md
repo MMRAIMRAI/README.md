@@ -1,5 +1,5 @@
 # MMRAI MRAI
-MasterMind Retrieval Augemented Intellegence Memory AI
+MasterMind Retrieval Augemented Intellegence MemoRAI
 MMRAI (Mastermind Retrieval Augmented Intelligence) - Decentralized AI Systems Architecture
 
 MMRAI, or Mastermind Retrieval Augmented Intelligence, represents an advanced convergence of AI technologies and decentralized frameworks. The core premise of MMRAI revolves around enhancing artificial intelligence through the integration of retrieval augmented techniques that access a vast memory network. This network is not merely a data repository but an intelligent framework capable of dynamically responding and adapting to queries and interactions.
